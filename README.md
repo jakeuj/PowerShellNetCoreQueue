@@ -1,6 +1,12 @@
 # PowerShellNetCoreQueue
 Power Shell Dot Net Core Background Task Queue
 
+用DotnetCore寫個Web API
+
+可以加入PowerShell作業到背景工作的佇列
+
+背景排程會依序處理排訂的工作
+
 - info: JobAPI.QueuedHostedService[0]
 
       Queued Hosted Service is running.
