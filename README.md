@@ -7,6 +7,7 @@ Power Shell Dot Net Core Background Task Queue
 
 背景排程會依序處理排訂的工作
 
+
 - info: JobAPI.QueuedHostedService[0]
 
       Queued Hosted Service is running.
