@@ -1,11 +1,13 @@
 # PowerShellNetCoreQueue
 Power Shell Dot Net Core Background Task Queue
 
-用DotnetCore寫個Web API
+https://dotblogs.com.tw/jakeuj/2021/04/28/PowerShellNetCoreQueue
 
-可以加入PowerShell作業到背景工作的佇列
+- DotnetCore Web API
 
-背景排程會依序處理排訂的工作
+- Background Task Queue
+
+- PowerShell Script Param
 
 
 - info: JobAPI.QueuedHostedService[0]
