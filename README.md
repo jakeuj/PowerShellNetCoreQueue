@@ -3,11 +3,11 @@ Power Shell Dot Net Core Background Task Queue
 
 https://dotblogs.com.tw/jakeuj/2021/04/28/PowerShellNetCoreQueue
 
-- DotnetCore Web API
+1. DotnetCore Web API
 
-- Background Task Queue
+2. Background Task Queue
 
-- PowerShell Script Param
+3. PowerShell Script Param
 
 
 - info: JobAPI.QueuedHostedService[0]
