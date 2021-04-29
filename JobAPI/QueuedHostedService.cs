@@ -22,9 +22,7 @@ namespace JobAPI
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             _logger.LogInformation(
-                $"Queued Hosted Service is running.{Environment.NewLine}" +
-                $"{Environment.NewLine}Now you can add a work item to the " +
-                $"background queue.{Environment.NewLine}");
+                $"Queued Hosted Service is running.{Environment.NewLine}");
 
             await BackgroundProcessing(stoppingToken);
         }
